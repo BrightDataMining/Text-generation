@@ -13,7 +13,7 @@
 
 ## 2. Template
 1. **Rigid Formats Controlled Text Generation** 
-*ACL2020 [[link](https://arxiv.org/abs/2004.08022)]
+*ACL2020* [[link](https://arxiv.org/abs/2004.08022)]
 
 ## 3. Other Papers
 
