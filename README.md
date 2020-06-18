@@ -18,7 +18,7 @@
 
 ## 3. Keyword
 1. **TextRank: Bringing Order into Texts** *EMNLP2004* [[pdf](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf)]
-2. ***Joint Keyphrase Chunking and Salience Ranking with BERT** [[pdf](https://arxiv.org/pdf/2004.13639.pdf)]
+2. **Joint Keyphrase Chunking and Salience Ranking with BERT** [[pdf](https://arxiv.org/pdf/2004.13639.pdf)]
 
 ## 4. Other Papers
 
